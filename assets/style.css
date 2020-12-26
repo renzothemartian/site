@@ -1,0 +1,13 @@
+/*this is a class  */
+.small-box {
+    height: 300px;
+    /* width: 200px; */
+}
+/* this is an id */
+#socials {
+    word-break: normal;
+}
+body{
+    background-color: cadetblue;
+    color: white;
+}
