@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: robotrenzo.com
+Token: 42295cd40129b3f605541dd440a9963be4414cea62b1a1f4f20715b0d562d5e6
